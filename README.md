@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhavya
+# 👋 Hi, I'm Bhavya Porwal
 
 🚀 Building AI + Full Stack Projects
 ⚡ Interested in ML, Systems & Scalable Tech
