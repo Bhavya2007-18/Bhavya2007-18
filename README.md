@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Bhavya Porwal
 
-🚀 Building AI + Full Stack Projects
-⚡ Interested in ML, Systems & Scalable Tech
-
+I build things that help me build more things
 ---
 
 ## 🌐 Connect With Me
